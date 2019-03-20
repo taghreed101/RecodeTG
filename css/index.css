@@ -1,11 +1,11 @@
-﻿
+
   html,
   body {
     font-family:Courier, monospace;
     text-align:center;
     min-width:260px;
     background-color: #B7AAB7;
-  
+   
       }
 /*------------------------------------------------------------------------ */
  header, footer {
@@ -77,19 +77,20 @@ a:hover {
   margin:2px auto;
   margin-top:20px;
   width:100%;
-border-radius:40px;
+border-radius:80px;
   border:0px solid ;
-  background:#585859;
+  background:#776C7C;
 }
 /*------------------------------------------------------------------------ */
 #image{
   opacity: 0.8;
-border-radius:20px;
-   width: 800px;
+border-radius:80px;
+   width: 1200px;
     height: 250px;
    }
 /*----------table postion-------------------------------------------------------------- */
 #TablPos{
+position: relative;
    margin-top:10px;
   margin-left:520px;
 }
